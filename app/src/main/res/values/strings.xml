@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ordem de Serviço</string>
+    <string name="user_text">Usuário</string>
+    <string name="pw_text">Senha</string>
+    <string name="button_login">Logar</string>
+    <string name="button_cadastrar">cadastrar</string>
+    <string name="button_esqueci_a_senha">Esqueci a senha</string>
+    <string name="button_login_clicado">Botão Login clicado</string>
+    <string name="button_forgor_clicado">Botão esqueci a senha clicado</string>
+    <string name="button_cadastrar_clicado">Botão cadastrar clicado!</string>
+    <string name="usuario_ou_senha_invalido">Usuário ou senha inválidos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

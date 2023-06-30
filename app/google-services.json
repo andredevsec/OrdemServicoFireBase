@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871510207110",
+    "project_id": "ordemservico-a06c2",
+    "storage_bucket": "ordemservico-a06c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871510207110:android:8bace95bb53e3b3bcdff07",
+        "android_client_info": {
+          "package_name": "com.example.ordemservico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871510207110-er2kmish6fcla59hij6shba0dlnac496.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ordemservico",
+            "certificate_hash": "01c1e4fd1f4b29a732c220f4dbc07ca2565f8d9c"
+          }
+        },
+        {
+          "client_id": "871510207110-1e5n978ldde61nle02q5bqdsfqna2sb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW7rrXToStpgNabkqO7z_iP6RdSQ7dUd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871510207110-1e5n978ldde61nle02q5bqdsfqna2sb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

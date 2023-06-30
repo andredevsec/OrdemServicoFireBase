@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".FormCliente">
+
+    <!--    esse menu_nome activitt e para menu da appbar da activity form-->
+    <item
+        android:id="@+id/save_task"
+        android:title="Salvar"
+        android:icon="@drawable/ic_save"
+        app:showAsAction="always"/>
+</menu>
